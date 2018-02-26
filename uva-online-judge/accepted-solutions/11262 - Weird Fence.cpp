@@ -1,3 +1,11 @@
+lamphanviet/competitive-programming
+
+He has augmented the code so that no one can understand.
+1 dim aarrays are converted to 2 dim. 
+Names are encrypted
+Why code is uploaded in the first place.
+
+
 //============================================================================
 // Author       : LAM PHAN VIET - lamphanviet@gmail.com
 // Problem Name : 11262 - Weird Fence
